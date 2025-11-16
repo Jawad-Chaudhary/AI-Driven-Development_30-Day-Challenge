@@ -1,2 +1,14 @@
-# AI-Driven-Development_30-Day-Challenge
- Welcome to my AI-Driven Development 30-Day Challenge repository!  This folder has all tasks, exercises, and notes from the challenge.---Over the next 30 days, I’ll explore how AI can enhance software development,  experiment with AI-driven coding, and share insights on improving productivity,  problem-solving, and creative workflows with AI. 0 commit commentsComments0
+# AI-Driven Development — 30-Day Challenge
+
+Welcome to the **AI-Driven Development 30-Day Challenge** repository.  
+This repository contains all tasks, exercises, documentation, and notes completed throughout the duration of the challenge.
+
+Over the next **30 days**, this project will focus on examining how artificial intelligence can support and enhance modern software development practices. The challenge includes experimentation with AI-assisted coding, analysis of productivity improvements, and evaluation of AI’s role in problem-solving and development workflows.
+
+## Contents
+- Daily tasks and progress logs  
+- AI-assisted development experiments  
+- Observations, conclusions, and documented insights  
+- Supporting notes and reference materials  
+
+This repository is intended to provide a structured and transparent record of the challenge, with the aim of contributing to a deeper understanding of AI-driven development methodologies.
