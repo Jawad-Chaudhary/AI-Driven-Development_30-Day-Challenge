@@ -1,0 +1,11 @@
+# Secrets and Keys
+.env
+
+# Python Virtual Environment (Heavy folder, machine specific)
+.venv/
+
+# Python Bytecode (Generated automatically, no need to track)
+__pycache__/
+
+# Tool specific configuration (Likely local-only)
+.gemini/
